@@ -26,7 +26,6 @@ class Song
 
     def artist_count (artist_name, num)
       @artist_name = artist_name
-      @@artists <<
     end
 
 end
